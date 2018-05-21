@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Vuforia", "Demo Vuforia.csproj", "{0FDB3332-1B76-C29C-F61C-CE688D8E5E99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Vuforia.Editor", "Demo Vuforia.Editor.csproj", "{44F47455-410A-8BD0-1443-DC66BD35867C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDB3332-1B76-C29C-F61C-CE688D8E5E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDB3332-1B76-C29C-F61C-CE688D8E5E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDB3332-1B76-C29C-F61C-CE688D8E5E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDB3332-1B76-C29C-F61C-CE688D8E5E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F47455-410A-8BD0-1443-DC66BD35867C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F47455-410A-8BD0-1443-DC66BD35867C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F47455-410A-8BD0-1443-DC66BD35867C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F47455-410A-8BD0-1443-DC66BD35867C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
